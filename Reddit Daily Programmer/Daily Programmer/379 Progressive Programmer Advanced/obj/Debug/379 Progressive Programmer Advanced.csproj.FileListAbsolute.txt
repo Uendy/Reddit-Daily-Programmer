@@ -1,0 +1,8 @@
+C:\Users\Alexb\Documents\Programming\Reddit Daily Programmer\Daily Programmer\379 Progressive Programmer Advanced\bin\Debug\Brackets.txt
+C:\Users\Alexb\Documents\Programming\Reddit Daily Programmer\Daily Programmer\379 Progressive Programmer Advanced\bin\Debug\379 Progressive Programmer Advanced.exe.config
+C:\Users\Alexb\Documents\Programming\Reddit Daily Programmer\Daily Programmer\379 Progressive Programmer Advanced\bin\Debug\379 Progressive Programmer Advanced.exe
+C:\Users\Alexb\Documents\Programming\Reddit Daily Programmer\Daily Programmer\379 Progressive Programmer Advanced\bin\Debug\379 Progressive Programmer Advanced.pdb
+C:\Users\Alexb\Documents\Programming\Reddit Daily Programmer\Daily Programmer\379 Progressive Programmer Advanced\obj\Debug\379 Progressive Programmer Advanced.csprojAssemblyReference.cache
+C:\Users\Alexb\Documents\Programming\Reddit Daily Programmer\Daily Programmer\379 Progressive Programmer Advanced\obj\Debug\379 Progressive Programmer Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Alexb\Documents\Programming\Reddit Daily Programmer\Daily Programmer\379 Progressive Programmer Advanced\obj\Debug\379 Progressive Programmer Advanced.exe
+C:\Users\Alexb\Documents\Programming\Reddit Daily Programmer\Daily Programmer\379 Progressive Programmer Advanced\obj\Debug\379 Progressive Programmer Advanced.pdb
